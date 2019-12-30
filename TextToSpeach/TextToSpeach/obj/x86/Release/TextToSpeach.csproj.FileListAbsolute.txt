@@ -1,0 +1,4 @@
+C:\Users\Rob\Documents\GitHub\robotics\TextToSpeach\TextToSpeach\bin\Release\TextToSpeach.exe
+C:\Users\Rob\Documents\GitHub\robotics\TextToSpeach\TextToSpeach\bin\Release\TextToSpeach.pdb
+C:\Users\Rob\Documents\GitHub\robotics\TextToSpeach\TextToSpeach\obj\x86\Release\TextToSpeach.exe
+C:\Users\Rob\Documents\GitHub\robotics\TextToSpeach\TextToSpeach\obj\x86\Release\TextToSpeach.pdb
